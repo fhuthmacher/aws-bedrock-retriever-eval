@@ -1,9 +1,7 @@
-# RAG System Component Evaluation
+# Amazon Bedrock Retriever Evaluation
     
-This notebook is a follow up from the previous [notebook](https://github.com/fhuthmacher/LLMevaluation/blob/main/LLMInformationExtraction.ipynb) and [youtube video](https://www.youtube.com/watch?v=HUuO9eJbOTk) in which we explored the overall evaluation approach and a RAG system's overall accuracy.
+In this notebook we will take a closer look at specific Amazon Bedrock retriever options and evaluate them using RAGAS evaluation metrics.
 
-In this notebook we will take a closer look at specific RAG evaluation metrics and explore how different RAG components impact these RAG evaluation metrics.
-If you prefer more of a walkthrough and more background information, please refer to the upcoming youtube video or to the corresponding [blog post here](https://medium.com/p/b8c8fe7e1e0f).
 
 
 ![Solution Architecture](/images/architecture.png)
